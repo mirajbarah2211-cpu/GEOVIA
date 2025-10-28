@@ -7,7 +7,7 @@
         "react-dom": "^18.2.0",
         "react-scripts": "5.0.1",
         "cesium": "^1.104.0",
-        "resium": "^1.22.0"
+        "resium": "*"
     },
     "scripts": {
         "start": "react-scripts start",
@@ -15,4 +15,5 @@
         "test": "react-scripts test",
         "eject": "react-scripts eject"
     }
+
 }
